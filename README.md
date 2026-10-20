@@ -13,7 +13,9 @@ Este repositorio contiene la solución integral para la prueba técnica de consu
 ## 🚀 Ejecución Directa en Google Colab
 Puedes abrir y ejecutar el cuaderno interactivo directamente haciendo clic en el siguiente enlace:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19OXuDSWRsK4wEUXBCOfAmNDsypmzkuZS#scrollTo=4qNNzguYn5Jr)
+[![Open In Colab_Prueba-Técnica](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19OXuDSWRsK4wEUXBCOfAmNDsypmzkuZS#scrollTo=4qNNzguYn5Jr)
+
+[![Open In Colab_Agente-IA](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZdQxgMqJyvX0rgLpghcpSOrZkbVEzbP#scrollTo=3yFvYzZRgdMU)
 
 > 📁 **Nota Importante:** Recuerda cargar los 4 archivos CSV incluidos en este repositorio en el panel lateral de archivos de Colab antes de ejecutar las celdas en secuencia.
 
