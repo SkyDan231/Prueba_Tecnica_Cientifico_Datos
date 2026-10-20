@@ -15,8 +15,6 @@ Puedes abrir y ejecutar el cuaderno interactivo directamente haciendo clic en el
 
 [![Open In Colab_Prueba-Técnica](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19OXuDSWRsK4wEUXBCOfAmNDsypmzkuZS#scrollTo=4qNNzguYn5Jr)
 
-[![Open In Colab_Agente-IA](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZdQxgMqJyvX0rgLpghcpSOrZkbVEzbP#scrollTo=3yFvYzZRgdMU)
-
 > 📁 **Nota Importante:** Recuerda cargar los 4 archivos CSV incluidos en este repositorio en el panel lateral de archivos de Colab antes de ejecutar las celdas en secuencia.
 
 ---
@@ -28,3 +26,5 @@ Puedes abrir y ejecutar el cuaderno interactivo directamente haciendo clic en el
 3. **Proyecciones e Incertidumbre:** Estimación de costos futuros con bandas de confianza del 95% derivadas de la varianza del ensamble.
 4. **Calculadora Presupuestal:** Análisis de sensibilidad con escenarios explicativos ($\pm 10\%$) para la planificación financiera sin doble contabilización.
 5. **🤖 Agente Conversacional de Consulta (Módulo Adicional):** Prototipo funcional que permite realizar consultas en lenguaje natural sobre los precios históricos, pronósticos y presupuestos calculados en el proyecto.
+
+[![Open In Colab_Agente-IA](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZdQxgMqJyvX0rgLpghcpSOrZkbVEzbP#scrollTo=3yFvYzZRgdMU)
