@@ -13,7 +13,7 @@ Este repositorio contiene la solución integral para la prueba técnica de consu
 ## 🚀 Ejecución Directa en Google Colab
 Puedes abrir y ejecutar el cuaderno interactivo directamente haciendo clic en el siguiente enlace:
 
-[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SkyDan231/Prueba-Tecnica-Cientifico-Datos/blob/main/Prueba_Tecnica_Daniela_Flores.ipynb)](https://colab.research.google.com/drive/19OXuDSWRsK4wEUXBCOfAmNDsypmzkuZS#scrollTo=4qNNzguYn5Jr)
+[![Open In Colab][([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SkyDan231/Prueba-Tecnica-Cientifico-Datos/blob/main/Prueba_Tecnica_Daniela_Flores.ipynb](https://colab.research.google.com/drive/19OXuDSWRsK4wEUXBCOfAmNDsypmzkuZS#scrollTo=4qNNzguYn5Jr))]
 
 > 📁 **Nota Importante:** Recuerda cargar los 4 archivos CSV incluidos en este repositorio en el panel lateral de archivos de Colab antes de ejecutar las celdas en secuencia.
 
