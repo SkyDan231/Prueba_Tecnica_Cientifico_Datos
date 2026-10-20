@@ -27,4 +27,4 @@ Puedes abrir y ejecutar el cuaderno interactivo directamente haciendo clic en el
 4. **Calculadora Presupuestal:** Análisis de sensibilidad con escenarios explicativos ($\pm 10\%$) para la planificación financiera sin doble contabilización.
 5. **🤖 Agente Conversacional de Consulta (Módulo Adicional):** Prototipo funcional que permite realizar consultas en lenguaje natural sobre los precios históricos, pronósticos y presupuestos calculados en el proyecto.
 
-[![Open In Colab_Agente-IA](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZdQxgMqJyvX0rgLpghcpSOrZkbVEzbP#scrollTo=3yFvYzZRgdMU)
+
